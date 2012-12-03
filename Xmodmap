@@ -1,0 +1,6 @@
+clear Mod2
+clear Mod4
+keycode 63 = Super_L
+add Mod4 = Super_L
+keycode 71 = Super_R
+add Mod4 = Super_R
